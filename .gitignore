@@ -1,0 +1,10 @@
+# Local vessel configuration and credentials
+software/config.py
+*.env
+
+# Runtime output
+logs/
+*.csv
+*.jsonl
+__pycache__/
+*.py[cod]
