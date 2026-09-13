@@ -11,6 +11,7 @@ For the next platform direction, see Brillnova's public updates on [GitHub](http
 - Raspberry Pi navigation and control reference software
 - ESP32 propulsion-control firmware, with OTA disabled until local credentials are configured
 - Minimal dependency list and local configuration template
+- V1 reference hull STL meshes and a FreeCAD assembly composed from those meshes
 - Assembly and reference-hull licensing notes
 
 ## Not included
@@ -18,7 +19,7 @@ For the next platform direction, see Brillnova's public updates on [GitHub](http
 - V2 materials, source code or designs
 - PCB designs, original CAD, manufacturing files or internal design documents
 - Raw field logs, real waypoints, calibration values and network credentials
-- STL, BOM and wiring-diagram files; these are not part of this initial release
+- BOM and wiring-diagram files; these are not part of this initial release
 
 ## Quick start
 
@@ -42,4 +43,4 @@ The software expects sensor hardware and system dependencies not bundled in this
 
 Unless a file states otherwise, the software in this repository is released under the [MIT License](LICENSE).
 
-No hull files are included in this release. The planned terms for specifically designated future V1 reference-hull files are documented in [Reference hull files](docs/REFERENCE_HULL_FILES.md). Branding, photographs and videos are not licensed for reuse by this software license.
+The V1 reference hull meshes and the FreeCAD mesh assembly are licensed separately under [CC BY-NC-SA 4.0](docs/REFERENCE_HULL_FILES.md). Branding, photographs and videos are not licensed for reuse by the software license.
