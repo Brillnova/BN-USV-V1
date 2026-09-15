@@ -4,7 +4,7 @@ BN-USV V1 is an experimental unmanned surface vehicle reference prototype by Bri
 
 V1 is **not a commercial product**, is **not for sale**, and is **not a ready-to-print DIY kit**. It is shared as a technical reference. The hull requires substantial post-processing, bonding and waterproofing, and is not optimized for easy reproduction.
 
-For the next platform direction, see Brillnova's public updates on [GitHub](https://github.com/Brillnova) and [YouTube](https://www.youtube.com/@Brillnova).
+For the next platform direction and Brillnova updates, see the [Brillnova website](https://brillnova.net), [GitHub](https://github.com/Brillnova), and [YouTube](https://www.youtube.com/@Brillnova).
 
 ## Included in this release
 
